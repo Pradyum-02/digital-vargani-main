@@ -1,0 +1,16 @@
+{
+  "name": "Digital Vargani — Ganpati Mandal Management System",
+  "short_name": "Digital Vargani",
+  "description": "Collect Vargani, generate Pauti and track the Ganpati Mandal Hishob.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#d97706",
+  "icons": [
+    {
+      "src": "/ganesh-logo.jpeg?v=2",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
